@@ -19,7 +19,7 @@ I build practical AI-powered workflows, backend automations, API integrations, a
 
 📍 Volta Redonda, Brazil &nbsp;•&nbsp; 🌎 Remote-friendly &nbsp;•&nbsp; 🇧🇷 Portuguese &nbsp;•&nbsp; 🇺🇸 English
 
-[Email](mailto:gabrielfgnascimento@icloud.com) • [LinkedIn](https://www.linkedin.com/) <!-- Replace this LinkedIn URL with your real profile link -->
+[Email](mailto:gabrielfgnascimento@icloud.com) • [LinkedIn](https://www.linkedin.com/in/gabriel-fernandes-gomes-nascimento-45264a417/)
 
 </div>
 
@@ -193,7 +193,7 @@ My ideal role is one where I can use AI tools, backend development, automation, 
 ## 📫 Contact
 
 - **Email:** [gabrielfgnascimento@icloud.com](mailto:gabrielfgnascimento@icloud.com)
-- **LinkedIn:** [Add your LinkedIn profile here](https://www.linkedin.com/)
+- **LinkedIn:** [gabriel-fernandes-gomes-nascimento](https://www.linkedin.com/in/gabriel-fernandes-gomes-nascimento-45264a417/)
 - **Location:** Volta Redonda, Brazil
 - **Languages:** Portuguese native, English intermediate/advanced
 
