@@ -178,18 +178,6 @@ My ideal role is one where I can use AI tools, backend development, automation, 
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbfernands-dev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbfernands-dev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Contact
 
 - **Email:** [gabrielfgnascimento@icloud.com](mailto:gabrielfgnascimento@icloud.com)
