@@ -106,7 +106,7 @@ The project was built with a **mobile-first product mindset**, focusing on a rea
 **Stack:** React, Vite, TailwindCSS, Framer Motion, Lucide, Django, Django REST Framework, SQLite, Vitest
 
 **Repository:** [github.com/Felipe-Alcantara/UniHub](https://github.com/Felipe-Alcantara/UniHub)
-**MVP's Link** [https://felipe-alcantara.github.io/login](https://felipe-alcantara.github.io/)
+**MVP's Link** [https://felipe-alcantara.github.io/login](https://felipe-alcantara.github.io/UniHub)
 
 > Team project. My portfolio positioning here focuses on the product, technical direction, AI-assisted workflow mindset, documentation, UX decisions, and backend/frontend learning demonstrated through the MVP.
 
