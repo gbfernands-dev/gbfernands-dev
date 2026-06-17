@@ -79,6 +79,38 @@ I am focused on roles and projects involving:
 
 ---
 
+## ⭐ Featured Portfolio Project
+
+### ATLETIZA — Mobile-first hub for university athletic associations
+
+[![Project](https://img.shields.io/badge/Project-ATLETIZA-f97316?style=for-the-badge)](https://github.com/Felipe-Alcantara/UniHub)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)](#)
+
+**ATLETIZA** is a team-built academic MVP designed to centralize the digital experience of university athletic associations: training schedules, events, sports modalities, important links, product showcase, digital membership card, announcements, polls, and a board/admin panel.
+
+The project was built with a **mobile-first product mindset**, focusing on a real problem: athletic association information is often scattered across WhatsApp groups, social media, spreadsheets, and private messages.
+
+**What this project demonstrates:**
+
+- Product thinking under time constraints
+- Mobile-first UX/UI and navigation flow
+- React + Vite frontend structure
+- Django + Django REST Framework backend foundation
+- Authentication flow and demo user profiles
+- Mock-driven MVP architecture for fast validation
+- Organized business rules, demo states, and tests
+- Clear documentation for future development
+
+**Stack:** React, Vite, TailwindCSS, Framer Motion, Lucide, Django, Django REST Framework, SQLite, Vitest
+
+**Repository:** [github.com/Felipe-Alcantara/UniHub](https://github.com/Felipe-Alcantara/UniHub)
+
+> Team project. My portfolio positioning here focuses on the product, technical direction, AI-assisted workflow mindset, documentation, UX decisions, and backend/frontend learning demonstrated through the MVP.
+
+---
+
 ## 🛠️ Concept Projects / Portfolio Roadmap
 
 These are portfolio concepts I am using to guide my learning and future public projects. They represent the kind of solutions I want to build and showcase.
